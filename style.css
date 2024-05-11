@@ -500,11 +500,6 @@ footer {
         margin-right: 8px;
     }
     
-    #name-logo {
-        background-color: aqua;
-        /* font-size: px; */
-    }
-    
     
     #menu {
         display: flex;
